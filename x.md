@@ -12,7 +12,7 @@ fsdf
 
 [x]
 
-[x]: #tekst-włącznie-z-polskimi-znakami-ale-bez-np.-bez-przecinka-ążśźęćń€ółĄŻŚŹĘĆŃ€ÓŁ
+[x]: #tekst-włącznie-z-polskimi-znakami-ale-bez-np.-bez-przecinka-ążśźęćńółĄŻŚŹĘĆŃÓŁ
 
 123
 
@@ -20,5 +20,5 @@ x
 
 gfd
 
-###### tekst włącznie z polskimi znakami ale bez np. bez przecinka ążśźęćń€ółĄŻŚŹĘĆŃ€ÓŁ
+###### tekst włącznie z polskimi znakami ale bez np. bez przecinka ążśźęćńółĄŻŚŹĘĆŃÓŁ
 [^x]: przypis
