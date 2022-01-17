@@ -12,7 +12,7 @@ fsdf
 
 [x]
 
-[x]: #ahura-mazda
+[x]: #tekst,-do-którego-linkuję
 
 123
 
