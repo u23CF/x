@@ -12,7 +12,7 @@ fsdf
 
 [x]
 
-[x]: #ahura_mazda
+[x]: #ahura-mazda
 
 123
 
