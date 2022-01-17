@@ -12,7 +12,7 @@ fsdf
 
 [x]
 
-[x]: #tekst-do-którego-linkuję
+[x]: #tekst-włącznie-z-polskimi-znakami-ale-bez-np.-bez-przecinka-ążśźęćń€ółĄŻŚŹĘĆŃ€ÓŁ
 
 123
 
@@ -20,5 +20,5 @@ x
 
 gfd
 
-###### tekst, do którego linkuję
+###### tekst włącznie z polskimi znakami ale bez np. bez przecinka ążśźęćń€ółĄŻŚŹĘĆŃ€ÓŁ
 [^x]: przypis
