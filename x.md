@@ -20,5 +20,5 @@ x
 
 gfd
 
-###### ahura mazda
+###### tekst, do którego linkuję
 [^x]: przypis
