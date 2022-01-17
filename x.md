@@ -12,7 +12,7 @@ fsdf
 
 [x]
 
-[x]: #tekst,-do-którego-linkuję
+[x]: #tekst-do-którego-linkuję
 
 123
 
