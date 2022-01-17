@@ -12,7 +12,7 @@ fsdf
 
 [x]
 
-[x]: #tekst-włącznie-z-polskimi-znakami-ale-bez-np.-bez-przecinka-ążśźęćńółĄŻŚŹĘĆŃÓŁ
+[x]: #tekst-włącznie-z-polskimi-znakami-ale-bez-np-bez-przecinka-ążśźęćńółĄŻŚŹĘĆŃÓŁ
 
 123
 
