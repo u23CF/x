@@ -1,7 +1,5 @@
+0. <sup>[wfnp</sup> [<sup>wfnp\]</sup>]
 
-# a
-fd
-#b
-fdsfd
-# c
-ffghgfd
+[<sup>wfnp\]</sup>]: #nazwa-nagłówka-zawierająca-wszystkie-polskie-litery-ale-nie-zawierająca-kropki-ani-przecinka-oraz-mająca-łączniki-zamiast-spacji
+###### [nazwa naglowka zawierająca wszystkie polskie litery ale nie zawierająca kropki ani przecinka oraz mająca łączniki zamiast spacji](http://www.google.pl/)
+Dowolny nagłówek może być celem kotwicy, ale jako zwykły przypis najlepiej byłoby stosować najmniejszy.
